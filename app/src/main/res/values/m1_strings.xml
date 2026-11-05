@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="m1_title">UM BorrowBuddy Login</string>
+    <string name="m1_stage_notice">Use your UM email. This screen is a UI prototype.</string>
+    <string name="m1_email_label">UM email</string>
+    <string name="m1_password_label">Password</string>
+    <string name="m1_login_label">Login</string>
+    <string name="m1_register_label">Register</string>
+    <string name="m1_reset_label">Forgot Password</string>
+    <string name="m1_loading">Signing in</string>
+    <string name="m1_invalid_email">Enter an email ending exactly in @siswa.um.edu.my or @um.edu.my.</string>
+    <string name="m1_password_required">Enter your password.</string>
+    <string name="m1_check_fields">Please check the highlighted field.</string>
+    <string name="m1_auth_unavailable">Firebase Authentication is not configured. No sign-in request will be sent.</string>
+    <string name="m1_register_unavailable">Register navigation is reserved for a later stage. No registration screen exists yet.</string>
+    <string name="m1_reset_unavailable">Forgot Password navigation is reserved for a later stage. No reset email will be sent.</string>
+</resources>
